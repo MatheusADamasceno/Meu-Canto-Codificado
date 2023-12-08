@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório pessoal no GitHub! ele foi desenvolvido com HTML e
 
 <div align="center">
 
-![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Mario-Game/blob/main/Captura%20de%20tela%202023-11-28%20104528.png)
+![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Meu-Canto-Codificado/blob/main/Portfolio-Matheus/Capturar.PNG?raw=true)
 
 </div>
 <div align=center>
@@ -49,11 +49,11 @@ Alguns meios de contato:
 ## Projetos Destacados
 Aqui estão alguns dos projetos que você encontrará neste repositório:
 
-1. **[Calculadora]( https://github.com/MatheusADamasceno/Calculadora-)
+1. [Calculadora]( https://github.com/MatheusADamasceno/Calculadora-)
 
-2. **[Mario Game](https://github.com/MatheusADamasceno/Mario-Game)
+2. [Mario Game](https://github.com/MatheusADamasceno/Mario-Game)
 
-3. **[Vai ter Mesa](https://github.com/MatheusADamasceno/VaiterMesa)
+3. [Vai ter Mesa](https://github.com/MatheusADamasceno/VaiterMesa)
 
 
 
