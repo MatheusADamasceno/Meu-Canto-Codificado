@@ -7,12 +7,7 @@ Bem-vindo ao meu repositório pessoal no GitHub! ele foi desenvolvido com HTML e
 ![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Meu-Canto-Codificado/blob/main/Portfolio-Matheus/Capturar.PNG?raw=true)
 
 </div>
-<div align=center>
 
-![License](https://img.shields.io/github/license/emilyfas/mario-game?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/emilyfas/mario-game?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/emilyfas/mario-game?style=flat-square)
-</div>
 
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
