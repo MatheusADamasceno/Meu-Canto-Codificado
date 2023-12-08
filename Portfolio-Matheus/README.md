@@ -18,24 +18,7 @@ Bem-vindo ao meu repositório pessoal no GitHub! ele foi desenvolvido com HTML e
 Você pode visualizar o projeto clicando no link abaixo:
 
 [Abra o portfolio](https://matheusprojects.netlify.app)
----
 
-
-
-
----
-
-## Como Jogar:
-
-1. [Abra o jogo](https://emilyfas.github.io/mario-game/) no seu navegador.  
-
-2. Ao iniciar o jogo, o Mario estará em posição inicial.
-
-3. Clique em na barra de espaço do teclado para fazer o Mario pular e evitar colidir com os obstáculos.
-
-4. Caso o Mario colida com um obstáculo, o jogo é encerrado. A tela de Game Over será exibida.
-
-5. Para jogar novamente, clique no botão de reinício ou na tecla <i>Enter</i>.
 
 ---
 <div id="tecnologias-utilizadas">
@@ -63,35 +46,17 @@ Alguns meios de contato:
 </div>
 </div>
 
-
-
----
-
-
-## Creditos
-
-# Meu Portfólio Pessoal
-
-Bem-vindo ao meu repositório pessoal no GitHub! Este projeto, desenvolvido com HTML e CSS, é uma janela para quem sou, destacando minhas tecnologias de familiaridade e apresentando alguns dos meus projetos.
-
-## Sobre Mim
-Me chamo Matheus Damasceno, apaixonado por desenvolvimento e entusiasta de tecnologia. Este repositório oferece uma visão sobre minha jornada, habilidades e o que me motiva como desenvolvedor.
-
-
 ## Projetos Destacados
 Aqui estão alguns dos projetos que você encontrará neste repositório:
 
-1. **[Calculadora]**
- ![GitHub repo size]( https://github.com/MatheusADamasceno/Calculadora-)
+1. **[Calculadora]( https://github.com/MatheusADamasceno/Calculadora-)
 
-2. **[Mario Game]**
- ![GitHub repo size](https://github.com/MatheusADamasceno/Mario-Game)
+2. **[Mario Game](https://github.com/MatheusADamasceno/Mario-Game)
 
-3. **[Vai ter Mesa]**
- ![GitHub repo size](https://github.com/MatheusADamasceno/VaiterMesa)
+3. **[Vai ter Mesa](https://github.com/MatheusADamasceno/VaiterMesa)
 
 
-4. **[E assim por diante...]**
+
 
 Fique à vontade para explorar os projetos, abrir issues ou sugerir melhorias. Seu feedback é valioso!
 
