@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório pessoal no GitHub! ele foi desenvolvido com HTML e
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-[Abra o portfolio](https://matheusprojects.netlify.app)
+[Abra o portfolio](https://matheusprojectss.netlify.app/)
 
 
 ---
